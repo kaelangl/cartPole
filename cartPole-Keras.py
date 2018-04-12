@@ -15,6 +15,7 @@ score_requirement = 50
 initial_games = 1000
 
 #test!
+#test 2!
 
 def initial_population():
     training_data = []
