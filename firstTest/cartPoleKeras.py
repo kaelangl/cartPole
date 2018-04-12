@@ -14,6 +14,8 @@ goal_steps = 500
 score_requirement = 50
 initial_games = 1000
 
+#kaelan added this comment to see if all is well
+
 def initial_population():
     training_data = []
     scores = []

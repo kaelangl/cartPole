@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59a59955-5c09-46bf-9199-ca83a4058be9" name="Default" comment="" />
+    <list default="true" id="59a59955-5c09-46bf-9199-ca83a4058be9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/cartPoleKeras.py" afterPath="$PROJECT_DIR$/cartPoleKeras.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="firstTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cartPoleTF.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cartPoleTF.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,8 +28,8 @@
       <file leaf-file-name="cartPoleKeras.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cartPoleKeras.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="570">
+              <caret line="38" column="67" lean-forward="true" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -416,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cartPoleKeras.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="570">
+          <caret line="38" column="67" lean-forward="true" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
