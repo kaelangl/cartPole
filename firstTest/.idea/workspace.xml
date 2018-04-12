@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59a59955-5c09-46bf-9199-ca83a4058be9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/firstTest.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cartPoleKeras.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cartPoleTF.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/firstTest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522256987.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522258981.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522269358.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522279541.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522286247.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522795784.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522796125.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522796363.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522796581.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522796661.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522796867.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522797412.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522798740.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/openai_learning/events.out.tfevents.1522865834.K.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/saved.npy" />
-    </list>
+    <list default="true" id="59a59955-5c09-46bf-9199-ca83a4058be9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
